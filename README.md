@@ -1,4 +1,4 @@
-
+# 📱 Food Delivery Platform – Real-Time Order Tracking & Communication Enhancement
 ### Comprehensive Business Requirement Document (BRD) & System Analysis
 
 ---
@@ -99,7 +99,7 @@ The end-to-end implementation requirements were broken down into functional Epic
 * **Estimation:** Fibonacci Story Points applied based on technical complexity (Telemetry Engine: 5 pts, Proxy Calling: 3 pts).
 * **Acceptance Criteria:** Integrated Gherkin syntax directly into ticket descriptions for engineering alignment.
 
-<img width="1238" height="568" alt="Screenshot 2026-09-19 145024" src="https://github.com/user-attachments/assets/78d727f7-f761-4d8d-97f2-f3bb024e1ac4" /># 📱 Food Delivery Platform – Real-Time Order Tracking & Communication Enhancement
+<img width="1238" height="568" alt="Screenshot 2026-09-19 145024" src="https://github.com/user-attachments/assets/78d727f7-f761-4d8d-97f2-f3bb024e1ac4" />
 
 
 
