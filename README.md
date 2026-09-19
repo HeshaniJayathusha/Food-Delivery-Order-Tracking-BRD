@@ -72,10 +72,12 @@ This project addresses post-order transparency challenges within a food delivery
 ## 📊 Visual System Architecture & Diagrams
 
 ### 1. System Use Case Diagram
-*(Add your Use Case Diagram image here)*
+<img width="847" height="645" alt="Screenshot 2026-09-19 132906" src="https://github.com/user-attachments/assets/591417bb-5ec9-4f5c-878d-66eb0f09ef7d" />
+
 
 ### 2. End-to-End Process Flowchart
-*(Add your Flowchart image here)*
+<img width="516" height="678" alt="Screenshot 2026-09-19 133123" src="https://github.com/user-attachments/assets/ecd85100-8e23-4ad1-aba7-d05571fbdb3b" />
+
 
 ---
 
