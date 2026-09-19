@@ -90,3 +90,20 @@ This project addresses post-order transparency challenges within a food delivery
 
 ## 📄 Complete Documentation
 Download the complete, officially formatted Business Requirement Document (BRD) PDF from this repository.
+
+## 📊 Agile & Sprint Management (Jira)
+
+The end-to-end implementation requirements were broken down into functional Epics, Agile User Stories, and estimated using Story Points via Jira Software.
+
+* **Tracking Board:** Scrum Workflow (`To Do` ➔ `In Progress` ➔ `Done`)
+* **Estimation:** Fibonacci Story Points applied based on technical complexity (Telemetry Engine: 5 pts, Proxy Calling: 3 pts).
+* **Acceptance Criteria:** Integrated Gherkin syntax directly into ticket descriptions for engineering alignment.
+
+![Uploading Screenshot 2026-09-19 145024.png…]()
+
+
+
+
+
+
+
